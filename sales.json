@@ -1,0 +1,39 @@
+{
+    "1": {
+        "Produnt ID": 1001,
+        "Product": {
+            "Name": "RealMe X7 Max",
+            "Price": 24999,
+            "RAM": 8,
+            "ROM": 128,
+            "Main Camera": 64,
+            "Units": 5
+        },
+        "Amount": 149994
+    },
+    "2": {
+        "Produnt ID": 1011,
+        "Product": {
+            "Name": "Samsung Galaxy Z Fold 3 5G",
+            "Price": 157999,
+            "RAM": 12,
+            "ROM": 512,
+            "Main Camera": 12,
+            "Units": 5
+        },
+        "Amount": 157999
+    },
+    "3": {
+        "Produnt ID": 1016,
+        "Product": {
+            "Name": "Redmi Note 10 Pro",
+            "Price": 17999,
+            "RAM": 6,
+            "ROM": 128,
+            "Main Camera": 64,
+            "Units": 45
+        },
+        "Amount": 179990
+    },
+    "Total Sale Amount": 487983
+}

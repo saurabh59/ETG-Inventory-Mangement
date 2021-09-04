@@ -1,0 +1,249 @@
+{
+    "1001": {
+        "Name": "RealMe X7 Max",
+        "Price": 24999,
+        "RAM": 8,
+        "ROM": 128,
+        "Main Camera": 64,
+        "Units": 5
+    },
+    "1002": {
+        "Name": "RealMe X7 Pro 5G",
+        "Price": 26999,
+        "RAM": 8,
+        "ROM": 128,
+        "Main Camera": 64,
+        "Units": 23
+    },
+    "1003": {
+        "Name": "RealMe X7 5G",
+        "Price": 19999,
+        "RAM": 8,
+        "ROM": 128,
+        "Main Camera": 64,
+        "Units": 71
+    },
+    "1004": {
+        "Name": "RealMe 8",
+        "Price": 16999,
+        "RAM": 6,
+        "ROM": 128,
+        "Main Camera": 64,
+        "Units": 68
+    },
+    "1005": {
+        "Name": "RealMe 8 5G",
+        "Price": 15999,
+        "RAM": 4,
+        "ROM": 64,
+        "Main Camera": 48,
+        "Units": 44
+    },
+    "1006": {
+        "Name": "RealMe 8 Pro",
+        "Price": 19999,
+        "RAM": 8,
+        "ROM": 128,
+        "Main Camera": 108,
+        "Units": 100
+    },
+    "1007": {
+        "Name": "Samsung A52s 5G",
+        "Price": 35999,
+        "RAM": 6,
+        "ROM": 128,
+        "Main Camera": 64,
+        "Units": 62
+    },
+    "1008": {
+        "Name": "Samsung Galaxy A72",
+        "Price": 34999,
+        "RAM": 8,
+        "ROM": 128,
+        "Main Camera": 64,
+        "Units": 23
+    },
+    "1009": {
+        "Name": "Samsung F22",
+        "Price": 12999,
+        "RAM": 4,
+        "ROM": 64,
+        "Main Camera": 48,
+        "Units": 12
+    },
+    "1010": {
+        "Name": "Samsung M11",
+        "Price": 12244,
+        "RAM": 4,
+        "ROM": 64,
+        "Main Camera": 13,
+        "Units": 4
+    },
+    "1011": {
+        "Name": "Samsung Galaxy Z Fold 3 5G",
+        "Price": 157999,
+        "RAM": 12,
+        "ROM": 512,
+        "Main Camera": 12,
+        "Units": 5
+    },
+    "1012": {
+        "Name": "Samsung Galaxy S21 Ultra",
+        "Price": 105999,
+        "RAM": 12,
+        "ROM": 256,
+        "Main Camera": 108,
+        "Units": 2
+    },
+    "1013": {
+        "Name": "Samsung Galaxy Note 20",
+        "Price": 59999,
+        "RAM": 8,
+        "ROM": 256,
+        "Main Camera": 64,
+        "Units": 3
+    },
+    "1014": {
+        "Name": "Samsung Galaxy Z Flip3 5G",
+        "Price": 88999,
+        "RAM": 8,
+        "ROM": 256,
+        "Main Camera": 12,
+        "Units": 1
+    },
+    "1015": {
+        "Name": "Redmi Note 10",
+        "Price": 13999,
+        "RAM": 4,
+        "ROM": 64,
+        "Main Camera": 48,
+        "Units": 13
+    },
+    "1016": {
+        "Name": "Redmi Note 10 Pro",
+        "Price": 17999,
+        "RAM": 6,
+        "ROM": 128,
+        "Main Camera": 64,
+        "Units": 45
+    },
+    "1017": {
+        "Name": "Redmi Note 10 Pro Max",
+        "Price": 19999,
+        "RAM": 6,
+        "ROM": 128,
+        "Main Camera": 108,
+        "Units": 63
+    },
+    "1018": {
+        "Name": "Redmi Note 10S",
+        "Price": 14999,
+        "RAM": 6,
+        "ROM": 64,
+        "Main Camera": 64,
+        "Units": 14
+    },
+    "1019": {
+        "Name": "Redmi 10 Prime",
+        "Price": 12499,
+        "RAM": 4,
+        "ROM": 64,
+        "Main Camera": 50,
+        "Units": 16
+    },
+    "1020": {
+        "Name": "OnePlus 9 Pro",
+        "Price": 69999,
+        "RAM": 8,
+        "ROM": 128,
+        "Main Camera": 50,
+        "Units": 32
+    },
+    "1021": {
+        "Name": "OnePlus 9",
+        "Price": 54999,
+        "RAM": 8,
+        "ROM": 128,
+        "Main Camera": 50,
+        "Units": 12
+    },
+    "1022": {
+        "Name": "OnePlus 9R",
+        "Price": 39999,
+        "RAM": 8,
+        "ROM": 128,
+        "Main Camera": 48,
+        "Units": 87
+    },
+    "1023": {
+        "Name": "OnePlus Nord 5G",
+        "Price": 24599,
+        "RAM": 8,
+        "ROM": 128,
+        "Main Camera": 48,
+        "Units": 1
+    },
+    "1024": {
+        "Name": "OnePlus Nord 2 5G",
+        "Price": 29999,
+        "RAM": 8,
+        "ROM": 128,
+        "Main Camera": 50,
+        "Units": 3
+    },
+    "1025": {
+        "Name": "OnePlus 8T 5G",
+        "Price": 38999,
+        "RAM": 8,
+        "ROM": 128,
+        "Main Camera": 48,
+        "Units": 10
+    },
+    "1026": {
+        "Name": "Poco F3 GT",
+        "Price": 26999,
+        "RAM": 6,
+        "ROM": 128,
+        "Main Camera": 64,
+        "Units": 23
+    },
+    "1027": {
+        "Name": "Poco M3 Pro 5G",
+        "Price": 16499,
+        "RAM": 6,
+        "ROM": 128,
+        "Main Camera": 48,
+        "Units": 123
+    },
+    "1028": {
+        "Name": "Poco X3",
+        "Price": 18999,
+        "RAM": 6,
+        "ROM": 128,
+        "Main Camera": 64,
+        "Units": 18
+    },
+    "1029": {
+        "Name": "Poco X3 GT",
+        "Price": 23999,
+        "RAM": 8,
+        "ROM": 128,
+        "Main Camera": 64,
+        "Units": 1
+    },
+    "1030": {
+        "Name": "Poco X3 Pro",
+        "Price": 18999,
+        "RAM": 6,
+        "ROM": 128,
+        "Main Camera": 48,
+        "Units": 61
+    },
+    "1031": {
+        "Name": "Moto Edge 20",
+        "RAM": 8,
+        "ROM": 128,
+        "Main Camera": 108,
+        "Units": 12
+    }
+}
